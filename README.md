@@ -51,4 +51,3 @@ Um simulador de chamados de suporte com grande escalabilidade, utilizando Rabbit
 ## 📫 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gabriel_Likes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/lucas-gabriel-likes-06a2b9182)  
-[![Email](https://img.shields.io/badge/E--mail-lucas_likes%40hotmail.com-red?style=for-the-badge&logo=outlook&logoColor=white)](mailto:lucas_likes@hotmail.com)
