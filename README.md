@@ -42,12 +42,6 @@ Um simulador de chamados de suporte com grande escalabilidade, utilizando Rabbit
 
 ---
 
-## 🐍 Snake dos Commits
-
-![snake gif](https://github.com/LucasLikes/LucasLikes/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gabriel_Likes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/lucas-gabriel-likes-06a2b9182)  
