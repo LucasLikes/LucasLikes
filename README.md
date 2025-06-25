@@ -14,6 +14,18 @@ Busco sempre aprofundar meu conhecimento, aprender com boas práticas e aplicar 
 
 ## 🚀 Projetos em Destaque
 
+### 💳 CreditCard Payment API  
+Projeto robusto de API REST para processamento de pagamentos com cartão, com arquitetura modular, integração assíncrona via RabbitMQ e testes automatizados. Desenvolvido com foco em escalabilidade, boas práticas e deploy via Docker — ideal para sistemas financeiros que exigem confiabilidade e performance.
+[GitHub](https://github.com/LucasLikes/creditcard-payment-api)
+
+### 🛠️ Packing Orders API  
+Microserviço para automação logística que otimiza o empacotamento de pedidos, reduzindo custos com uso eficiente de caixas pré-definidas. Inclui autenticação JWT, testes unitários com xUnit e orquestração com Docker Compose. Feito para ambientes que demandam alta escalabilidade e integração contínua.  
+[GitHub](https://github.com/LucasLikes/PackingOrders.API)
+
+### 🎮 Pokémon Teams API (Back and Front)  
+Backend em NestJS com integração à PokéAPI para gerenciar times de Pokémon, com frontend em Flutter para visualização dos dados.  
+[GitHub Backend](https://github.com/LucasLikes/pokemon-teams-api) | [GitHub Frontend](https://github.com/LucasLikes/pokemon-teams-frontend)
+
 ### 💰 SimBank  
 Um simulador de chamados de suporte com grande escalabilidade, utilizando RabbitMQ, APIs e DynamoDB.
 
