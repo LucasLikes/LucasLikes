@@ -15,45 +15,47 @@ Busco sempre aprofundar meu conhecimento, aprender com boas práticas e aplicar 
 ## 🚀 Projetos em Destaque
 
 ### 💳 CreditCard Payment API  
-Projeto robusto de API REST para processamento de pagamentos com cartão, com arquitetura modular, integração assíncrona via RabbitMQ e testes automatizados. Desenvolvido com foco em escalabilidade, boas práticas e deploy via Docker — ideal para sistemas financeiros que exigem confiabilidade e performance.
-[GitHub](https://github.com/LucasLikes/creditcard-payment-api)
+API REST para processamento de pagamentos com cartão. Conta com arquitetura modular, integração assíncrona via RabbitMQ, testes automatizados e deploy com Docker. Ideal para sistemas financeiros que exigem confiabilidade e performance.  
+🔗 [GitHub](https://github.com/LucasLikes/creditcard-payment-api)
 
-### 🛠️ Packing Orders API  
-Microserviço para automação logística que otimiza o empacotamento de pedidos, reduzindo custos com uso eficiente de caixas pré-definidas. Inclui autenticação JWT, testes unitários com xUnit e orquestração com Docker Compose. Feito para ambientes que demandam alta escalabilidade e integração contínua.  
-[GitHub](https://github.com/LucasLikes/PackingOrders.API)
+### 📦 Packing Orders API  
+Microserviço para empacotamento logístico otimizado, reduzindo custos com uso de caixas pré-definidas. Possui autenticação JWT, testes com xUnit e orquestração via Docker Compose.  
+🔗 [GitHub](https://github.com/LucasLikes/PackingOrders.API)
 
-### 🎮 Pokémon Teams API (Back and Front)  
-Backend em NestJS com integração à PokéAPI para gerenciar times de Pokémon, com frontend em Flutter para visualização dos dados.  
-[GitHub Backend](https://github.com/LucasLikes/pokemon-teams-api) | [GitHub Frontend](https://github.com/LucasLikes/pokemon-teams-frontend)
+### 🎮 Pokémon Teams API  
+Backend em NestJS com integração à PokéAPI para gestão de times de Pokémon, e frontend em Flutter para visualização e interação com os dados.  
+🔗 [GitHub Backend](https://github.com/LucasLikes/pokemon-teams-api) | [GitHub Frontend](https://github.com/LucasLikes/pokemon-teams-frontend)
 
 ### 💰 SimBank  
-Um simulador de chamados de suporte com grande escalabilidade, utilizando RabbitMQ, APIs e DynamoDB.
-
-✔️ O usuário solicita suporte via API.  
-✔️ A mensagem é colocada em uma fila no RabbitMQ.  
-✔️ A solicitação é processada e os dados são armazenados no DynamoDB.
-
-🔗 [Ver no GitHub](https://github.com/LucasLikes/SimBank)
+Simulador de sistema de chamados de suporte com foco em escalabilidade.  
+✔️ Requisição via API → entra na fila RabbitMQ → é processada e armazenada no DynamoDB.  
+🔗 [GitHub](https://github.com/LucasLikes/SimBank)
 
 ---
 
 ## 🧰 Tecnologias que uso
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer" title="C#"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" /> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noopener noreferrer" title="Java & Spring Boot"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /> </a> <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python & Django"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer" title="Django"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" /> </a> <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer" title="Flutter"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter" /> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer" title="PostgreSQL"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer" title="SQL Server"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" /> </a> <a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer" title="Azure"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer" title="Docker"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /> </a> <a href="https://www.rabbitmq.com/" target="_blank" rel="noopener noreferrer" title="RabbitMQ"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ" /> </a>
 
 ---
 
 ## 📊 Estatísticas
 
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasLikes&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLikes&layout=compact&theme=radical)
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasLikes&show_icons=true&count_private=true&title_color=4A90E2&text_color=444C56&icon_color=8AB4F8&bg_color=F5F7FA" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLikes&layout=compact&title_color=4A90E2&text_color=444C56&bg_color=F5F7FA" />
+</div>
+
 
 ---
 
 ## 📫 Contato Profissional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gabriel_Likes-blue?style=for-the-badge&logo=linkedin)](https://br.linkedin.com/in/lucas-gabriel-likes-06a2b9182)  
+| [<img src="https://github.com/LucasLikes.png" width=115><br><sub><b>Lucas Gabriel Likes</b></sub>](https://br.linkedin.com/in/lucas-gabriel-likes-06a2b9182) |
+| :---: |
+
+Engenheiro de Software com foco em soluções escaláveis e APIs de alta performance.  
+Aberto a conexões, parcerias e novas oportunidades! 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lucas-gabriel-likes-06a2b9182,)
+
