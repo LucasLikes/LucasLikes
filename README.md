@@ -41,7 +41,11 @@ Simulador de sistema de chamados de suporte com foco em escalabilidade.
 
 <br />
   <p align="center">
-    <img src="https://raw.githubusercontent.com/LucasLikes/LucasLikes/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasLikes/LucasLikes/output/pacman-contribution-graph-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasLikes/LucasLikes/output/pacman-contribution-graph.svg" />
+      <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/LucasLikes/LucasLikes/output/pacman-contribution-graph.svg" width="100%" />
+    </picture>
   </p>
 <br />
 
